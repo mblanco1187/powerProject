@@ -1,0 +1,39 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  text-align: center;
+  padding: 20% 15%;
+  background: url(img/img_2155.jpg) center / cover #e35da4;
+  background-blend-mode: multiply;
+  color: white;
+  text-shadow: 2px 2px gray;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f54295;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+footer {
+  text-align: center;
+  color: white;
+  padding: 20px;
+  background-color: #f54295;
+}
